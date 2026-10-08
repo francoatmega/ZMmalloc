@@ -1,0 +1,10 @@
+# artefatos de build
+demo
+poc
+*.o
+*.so
+*.core
+core
+
+# material privado do desafio (NÃO publicar)
+private/
